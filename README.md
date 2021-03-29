@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ### Contact
-
- 📫  - info@skyzone.dev
+info@skyzone.dev
