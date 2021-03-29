@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭  I’m currently working on: SkyZone Academy
-- 📫  How to reach me: info@skyzone.dev
+- 📫  : info@skyzone.dev
