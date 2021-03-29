@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫  : info@skyzone.dev
+# Contact Me:
+
+📫  : info@skyzone.dev
