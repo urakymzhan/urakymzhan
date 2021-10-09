@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ### Contact
 - [ulan13.me](https://ulan13.me)
-- **[SkyZone Academy](https://skyzone.dev)**
+- [SkyZone Academy](https://skyzone.dev)
