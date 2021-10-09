@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ### Contact
-- support@skyzone.dev
-- [ulan13](https://ulan13.me)
+- [ulan13.me](https://ulan13.me)
 - **[SkyZone Academy](https://skyzone.dev)**
